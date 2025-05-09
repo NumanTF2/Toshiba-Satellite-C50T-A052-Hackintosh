@@ -21,6 +21,7 @@ This repository contains the OpenCore configuration for the Toshiba Satellite C5
 | **Ethernet**    | Atheros 8162/8166/8168 PCI-E Fast Ethernet        |
 | **USB Ports**   | 1× USB 3.0, 2× USB 2.0                            |
 | **HDMI**        | Supported                                         |
+| **OpenCore**    | 1.0.4                                             |
 
 ---
 
